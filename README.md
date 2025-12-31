@@ -20,7 +20,7 @@ Türkiye’de elektrikli araç şarj istasyonu yatırımlarını veriye dayalı 
 1. Depoyu klonlayın:
    ```bash
    git clone <repo-link>
-   cd ZES_KDSS-main
+   cd ZES
    ```
 2. Bağımlılıkları yükleyin:
    ```bash
